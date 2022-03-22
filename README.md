@@ -1,8 +1,8 @@
 # merge-conflict-demo
+
 for fox
 
-nihao
 
-wo shi haoren 
+This is an example of how to deal with merge conflicts.
 
-jingijis9
+Sometimes
